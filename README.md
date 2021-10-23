@@ -4,8 +4,7 @@ This website will inform you of the day you were born as well as
 tell you of your Akan Name. Akan names are a naming system derived from Ghanian culture. 
 For more detail on Akan names see the "More About Akan Names" section below. To find out your own Akan name you will need to 
 scroll till the bottom of the page, fill out the gender and date of birth section and select the "Get Results" button.
-# Akan Names and Day of Birth
-## More About Akan Names
+### More About Akan Names
 The Akan people of Ghana (an ethnic group making up close to 50% of ghanas population) frequently name their children after the day of the week they were born 
 and the order in which they were born. These "day names" have further meanings concerning the soul 
 and character of the person. Middle names have considerably more variety and can refer to their birth 
@@ -16,6 +15,28 @@ During the 18th–19th centuries, enslaved people in the Caribbean from the regi
 Ghana were referred to as Coromantees. Many of the leaders of enslaved people's rebellions had
 "day names" including Cuffy, Cuffee or Kofi, Cudjoe or Kojo, Quao or Quaw, and Quamina or 
 Kwame/Kwamina.
+
+## Akan Names For Male & Female
+
+##### Male
+
+Kwasi (A masculine for Monday)
+Kwadwo (A masculine for Monday)
+Kwabena (A masculine male for Tuesday)
+Kwaku (A masculine male for Wednesday)
+Yaw (A masculine male for Thursday)
+Kofi (A masculine male for Friday)
+Kwame (A masculine male for Saturday)
+
+##### Female
+
+Akosua (A female for Sunday)
+Adwoa (A female for  Monday)
+Abeena (A female for Tuesday)
+Akua (A female for Wednesday)
+Yaa (A female for Thursday)
+Afua (A female for Friday)
+Ama (A female for Saturday)
 ## Live Link
 https://chang224.github.io/IP-Project2/
 ## Technologies Used
