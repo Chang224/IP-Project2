@@ -1,5 +1,5 @@
 # Independent Project Two
-#### Description
+### Description
 This website will inform you of the day you were born as well as 
 tell you of your Akan Name. Akan names are a naming system derived from Ghanian culture. 
 For more detail on Akan names see the "More About Akan Names" section below. To find out your own Akan name you will need to 
@@ -20,23 +20,23 @@ Kwame/Kwamina.
 
 ##### Male
 
-Kwasi (A masculine for Monday)
-Kwadwo (A masculine for Monday)
-Kwabena (A masculine male for Tuesday)
-Kwaku (A masculine male for Wednesday)
-Yaw (A masculine male for Thursday)
-Kofi (A masculine male for Friday)
-Kwame (A masculine male for Saturday)
+* Kwasi (A masculine for Monday)
+* Kwadwo (A masculine for Monday)
+* Kwabena (A masculine male for Tuesday)
+* Kwaku (A masculine male for Wednesday)
+* Yaw (A masculine male for Thursday)
+* Kofi (A masculine male for Friday)
+* Kwame (A masculine male for Saturday)
 
 ##### Female
 
-Akosua (A female for Sunday)
-Adwoa (A female for  Monday)
-Abeena (A female for Tuesday)
-Akua (A female for Wednesday)
-Yaa (A female for Thursday)
-Afua (A female for Friday)
-Ama (A female for Saturday)
+* Akosua (A female for Sunday)
+* Adwoa (A female for  Monday)
+* Abeena (A female for Tuesday)
+* Akua (A female for Wednesday)
+* Yaa (A female for Thursday)
+* Afua (A female for Friday)
+* Ama (A female for Saturday)
 ## Live Link
 https://chang224.github.io/IP-Project2/
 ## Technologies Used
