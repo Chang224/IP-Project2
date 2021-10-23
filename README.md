@@ -1,4 +1,4 @@
-# IP Project2
+# Independent Project 2
 This website will inform you of the day you were born as well as 
 tell you of your Akan Name. Akan names are a naming system derived from Ghanian culture. 
 For more detail on Akan names see the description below. To find out your own Akan name you will need to 
@@ -22,7 +22,7 @@ https://chang224.github.io/IP-Project2/
 * CSS (Cascading Style Sheet)
 * JavaScript
 ## Support and contact details
-Contact:changgatere@gmail.com
+Contact: changgatere@gmail.com
 ### License
 MIT Licening
   
