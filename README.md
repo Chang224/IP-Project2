@@ -1,4 +1,4 @@
-# IP-Project2
+# IP Project2
 Akan names and the day of birth
 # Akan Names and Day of Birth
 ## Description
